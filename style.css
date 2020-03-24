@@ -2,6 +2,42 @@
 {
 	position: fixed;
 	width: 100%;
-	height: 35px;
-	background: white;
+	height: 80px;
+	background: #ff9f28;
+	top: 0;
+}
+
+
+.logo{
+	float: left;
+}
+
+.items{
+	float: left;
+	color: aliceblue;
+	text-decoration-color: aliceblue;
+	margin-left: 40px;
+	font-family: Arial;
+	font-size: 30px;
+}
+
+.hobbies{
+	text-align: center;
+	text-indent: -5px;
+}
+ul{
+	list-style-type: none;
+}
+
+
+a{
+	color: aliceblue;
+	text-decoration: none;
+}
+a:hover{
+	color: blueviolet;
+}
+
+.section{
+	text-align: center;
 }
