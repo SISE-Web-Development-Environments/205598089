@@ -41,3 +41,20 @@ a:hover{
 .section{
 	text-align: center;
 }
+
+input[type=text], select, textarea {
+	width: 40%;
+	padding: 12px;
+	border: 1px solid #ccc;
+	margin-top: 6px;
+	margin-bottom: 16px;
+	resize: vertical;
+}
+
+input[type=submit] {
+	background-color: #4CAF50;
+	color: white;
+	padding: 12px 20px;
+	border: none;
+	cursor: pointer;
+}
